@@ -35,7 +35,7 @@ The program works in three main steps:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+     https://github.com/Pransu-singh/Virtual-Mouse.git
     ```
 
 2.  **Install Dependencies:**
